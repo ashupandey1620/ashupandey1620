@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Android Development and pacticing DSA.
+- 🔭 I’m currently working on Android Development and practicing DSA.
 - 👯 I’m looking to collaborate on Open Source Contributions.
 - 💬 Ask me about Problem-solving and DSA.
 
