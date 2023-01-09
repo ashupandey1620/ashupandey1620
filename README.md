@@ -54,11 +54,6 @@
 </div>
 
 <div align="center">
-    <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://opencv.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/opencv-original.svg" title="OpenCV" alt="opencv" width="40" height="40"/></a></code>&nbsp;
-</div>
-
-<div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://firebase.com/" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
@@ -75,7 +70,7 @@
     <br><br>
 </div>
 
-<a href="https://github.com/shubham-gupta-16">
+<a href="https://github.com/ashupandey1620">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
 </a>
 
