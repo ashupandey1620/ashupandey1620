@@ -8,9 +8,9 @@
 
 ## 🪟 Profile Views 
  ![Profile views](https://gpvc.arturio.dev/ashupandey1620) 
- 
+ <br>
  <h2 align="center">My Contribution Streak !! :fire:</h2>
-
+<br>
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
