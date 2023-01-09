@@ -8,7 +8,7 @@
 
  ## 📲 Connect with me on social media
  <img align='right' src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="20%">
-<h3 align="left"><img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
+<h3 align="left"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" height="50px" /> Let's be friends and get connected!!  </p></h3>
 <p align="left">
 
 
