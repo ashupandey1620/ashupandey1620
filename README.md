@@ -22,10 +22,12 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=ashupandey1620&theme=react-dark&hide_border=true&area=true)
 
-
-<a href="https://github.com/ashupandey1620">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&layout=compact&theme=dark&langs_count=4&hide=php,javascript," />
-</a>
+<tr>
+      <td rowspan=1>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&theme=dark" align="center"/>
+      </td>
+   </tr>
+   <tr>
 
 
  ## 📲 Connect with me on social media
