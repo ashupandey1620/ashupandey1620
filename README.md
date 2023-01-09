@@ -7,8 +7,7 @@
 - 💬 Ask me about Problem-solving and DSA.
 
  ## 📲 Connect with me on social media
- <img align='right' src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" width="20%">
-<h3 align="left"><img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" height="50px" /> Let's be friends and get connected!!  </p></h3>
+<p><h3> Let's be friends and get connected!!  </p></h3>
 <p align="left">
 
 
