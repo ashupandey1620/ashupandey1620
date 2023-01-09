@@ -52,19 +52,10 @@
     <code><a href="https://www.w3schools.com/CPP/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.w3schools.com/C/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/c-original.svg" title="C" alt="c" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.java.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/java-original.svg" title="Java" alt="java" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.php.net" target="_blank"><img src="https://cdn.mrayush.me/image/readme/php-original.svg" title="PHP" alt="php" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/react-original.svg" title="ReactJS" alt="reactjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/nextjs-original.svg" title="NextJS" alt="nextjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://expressjs.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/express-original.svg" title="ExpressJS" alt="expressjs" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/bootstrap-original.svg" title="BootStrap" alt="bootstrap" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://jquery.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/jquery-original.svg" title="jQuery" alt="jquery" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/django-original.svg" title="Django" alt="django" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/selenium-original.svg" title="Selenium" alt="selenium" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://opencv.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/opencv-original.svg" title="OpenCV" alt="opencv" width="40" height="40"/></a></code>&nbsp;
 </div>
 
@@ -72,16 +63,9 @@
     <h3><b>Databases</b></h3>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://firebase.com/" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/firebase-icon.svg" title="Firebase" alt="firebase" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://mongodb.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/></a></code>&nbsp;
 </div>
 
-<div align="center">
-    <h3><b>Cloud</b></h3>
-    <code><a href="https://netlify.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/netlify-icon.svg" title="Netlify" alt="netlify" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://vercel.com/" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/vercel-icon-dark.svg" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://heroku.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/heroku-original.svg" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
-</div>
+
 
 <div align="center">
     <h3><b>Tools</b></h3>
@@ -89,8 +73,6 @@
     <code><a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/image/readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://blender.org/" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://cdn.mrayush.me/image/readme/photoshop-original.svg" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
     <br><br>
 </div>
 
