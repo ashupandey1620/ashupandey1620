@@ -19,17 +19,14 @@
    </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=ashupandey1620&theme=react-dark&hide_border=true&area=true)
-
 <tr>
       <td rowspan=1>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&theme=dark" align="center"/>
       </td>
    </tr>
-   <tr>
-
-
+   
+![](https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=ashupandey1620&theme=react-dark&hide_border=true&area=true)
  ## 📲 Connect with me on social media
 <p><h3> Let's be friends and get connected!!  </p></h3>
 <p align="left">
