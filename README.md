@@ -19,7 +19,7 @@
    </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+
 
 
 
