@@ -20,13 +20,7 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-   
-   <tr>
-      <td rowspan=2>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&theme=dark" align="center"/>
-      </td>
-   </tr>
-   
+
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=ashupandey1620&theme=react-dark&hide_border=true&area=true)
