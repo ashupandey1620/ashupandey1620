@@ -42,20 +42,6 @@
 
 
 
- ## 📲 Connect with me on social media
-<p><h3> Let's be friends and get connected!!  </p></h3>
-<p align="left">
-
-
-<p align="left">
-   <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/ashupandey1620"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a href="https://twitter.com/Ashutos97972624"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/ashupandey1620/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/ashupandey1620?r=nametag"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <!-- ---------------------------------------------------------------- -->
-</p>
-
 <!---
 ashupandey1620/ashupandey1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
