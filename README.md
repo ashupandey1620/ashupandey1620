@@ -14,6 +14,14 @@
 
 ## 🪟 Profile Views 
  ![Profile views](https://gpvc.arturio.dev/ashupandey1620) 
+ <div align="center">
+        <a href="https://www.linkedin.com/in/ashupandey1620/"><img height="20" width="70" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:ashupandey1620@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/Ashutos97972624"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+        <a href="https://github.com/ashupandey1620"><img  height="22" width="81" src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.instagram.com/ashupandey1620?r=nametag"><img  height="20" width="88" src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ </div>
+ 
  <br>
  <h2 align="center">My Contribution Streak !! :fire:</h2>
 
