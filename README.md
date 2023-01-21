@@ -1,13 +1,6 @@
 
 
-<p align="center">
-<a href="https://github.com/ashupandey1620/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashupandey1620&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/ashupandey1620/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashupandey1620&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
+
 
 - 🔭 I’m currently working on Android Development and practicing DataStructures and Algorithm.
 - 👯 I’m looking to collaborate on Open Source Contributions.
@@ -36,11 +29,14 @@
 
 
 
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=ashupandey1620&theme=react-dark&hide_border=true&area=true)
-
-
+<p align="center">
+<a href="https://github.com/ashupandey1620/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashupandey1620&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/ashupandey1620/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashupandey1620&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 
 <!---
