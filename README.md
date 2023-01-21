@@ -6,6 +6,27 @@
 - 👯 I’m looking to collaborate on Open Source Contributions.
 - 💬 Ask me about Problem-solving and DSA.
 
+
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/Ashutos97972624"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/ashupandey1620/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
+
+</p>
+
+
 ## 🪟 Profile Views 
  ![Profile views](https://gpvc.arturio.dev/ashupandey1620) 
  <div align="center">
