@@ -1,11 +1,5 @@
 
- <div align="center">
-        
-            <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ashutosh+Pandey;🏫+Student;Android+Developer+📱;🧑‍💻Open-Source+Enthusiast;⌨️+Software+Engineer"
-            />
-       
-    </div>
+
 
 
 - 🔭 I’m currently working on Android Development and practicing DataStructures and Algorithm.
