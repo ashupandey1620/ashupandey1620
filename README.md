@@ -12,13 +12,13 @@
  
 <table width="99" align='center'>
 <tr>
-    <td align='center' width="68">
+    <td align='center' width="70">
         <a href="https://twitter.com/Ashutos97972624"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
-    <td align='center' width="68">
+    <td align='center' width="70">
         <a href="https://www.instagram.com/ashupandey1620/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
-    <td align='center' width="68">
+    <td align='center' width="70">
         <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
