@@ -48,7 +48,8 @@
 <div>
     <div align="center">
         <h1>📊 Github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=blue-green&count_private=true&show_icons=true" title="Ashutosh pandey's GitHub Stats" height="200"/>
+     <a href="https://github.com/ashupandey1620">
+        <img src="https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=blue-green&count_private=true&show_icons=true" title="Ashutosh pandey's GitHub Stats" height="200"/></a>
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashupandey1620&theme=blue-green" title="Ashutosh Pandey's GitHub Stats" height="200"/>
         <br><br>
