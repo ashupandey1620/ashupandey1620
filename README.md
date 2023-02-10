@@ -51,7 +51,8 @@
      <a href="https://github.com/ashupandey1620">
         <img src="https://github-readme-stats.vercel.app/api?username=ashupandey1620&theme=blue-green&count_private=true&show_icons=true" title="Ashutosh pandey's GitHub Stats" height="200"/></a>
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashupandey1620&theme=blue-green" title="Ashutosh Pandey's GitHub Stats" height="200"/>
+     <a href="https://github.com/ashupandey1620">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashupandey1620&theme=blue-green" title="Ashutosh Pandey's GitHub Stats" height="200"/></a>
         <br><br>
     </div>
 </div>
@@ -66,14 +67,14 @@
 
 <div align="center">
     <h2>📊 Top Used Languages</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="ashupandey1620's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="ashupandey1620's Top Languages"/></a><br>
+    <br><a href="https://github.com/ashupandey1620"><img alt="ashupandey1620's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="ashupandey1620's Top Languages"/></a><br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
 </div>
 
 <div align="center">
     <h2>📊 Contribution Graph</h2>
-    <br><a href="https://github.com/AyushAgnihotri2025"><img alt="Ayush Agnihotri's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=ashupandey1620&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
+    <br><a href="https://github.com/ashupandey1620"><img alt="Ashutosh Pandey's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=ashupandey1620&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
 <br><br>
 <div>
