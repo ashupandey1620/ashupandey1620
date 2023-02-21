@@ -10,7 +10,7 @@
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
-<table width="102" align='center'>
+<table width="100" align='center'>
 <tr>
     <td align='center' width="72">
         <a href="https://twitter.com/Ashutos97972624"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
