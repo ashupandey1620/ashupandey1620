@@ -74,8 +74,13 @@
 
 <div align="center">
     <h2>📊 Contribution Graph</h2>
+ 
     <br><a href="https://github.com/ashupandey1620"><img alt="Ashutosh Pandey's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=ashupandey1620&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashupandey1620&theme=dracula)](https://github.com/ashupandey1620/github-readme-activity-graph)
+
+
 <br><br>
 <div>
     <div align="center">
