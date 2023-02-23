@@ -86,7 +86,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 ashupandey1620/ashupandey1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
