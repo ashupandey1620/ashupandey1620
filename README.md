@@ -15,7 +15,7 @@
     <td align='center' width="79">
         <a href="https://twitter.com/Ashutos97972624"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
-    <td align='center' width="70">
+    <td align='center' width="79">
         <a href="https://www.instagram.com/ashupandey1620/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="70">
