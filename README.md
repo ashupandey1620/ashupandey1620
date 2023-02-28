@@ -31,9 +31,7 @@
  ![Profile views](https://gpvc.arturio.dev/ashupandey1620) 
  
  
- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
 
  
  <br>
