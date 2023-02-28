@@ -86,6 +86,11 @@
 </div>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ashupandey1620/count.svg" />
+</p>
+
 
 <!---
 ashupandey1620/ashupandey1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
