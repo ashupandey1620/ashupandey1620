@@ -3,7 +3,7 @@
 
 
 -  🔭 I’m currently working on Android Development and practicing DataStructures and Algorithm.
--  👯 I’m looking to collaborate on Open Source Contributions .
+-  👯 I’m looking to collaborate on Open Source Contributions.
 -  💬 Ask me about Problem-solving and DSA.
 
 
