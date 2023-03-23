@@ -1,12 +1,7 @@
 
- <p>
-   <!--img src="https://user-images.githubusercontent.com/62587060/155869994-699a077f-fffc-4ffd-816d-fd7cab5ed512.png"/-->
-    <img src="https://user-images.githubusercontent.com/62587060/182472944-2991c181-5275-469d-a34e-304171682ec4.gif"/>
- </p>
-
 
 ### 💫 About Me:
-👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 2nd year CSE student at PSIT<br>🎨 Exploring Backend Development<br>🌱 Currently learning Data Structures and Algorithms<br>⚡
+👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 2nd year CSE student at PSIT<br>🎨 Exploring Backend Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 -  🔭 I’m currently working on Android Development  and practicing DataStructures and Algorithm.
 -  👯 I’m looking to collaborate on Open Source Contributions.
