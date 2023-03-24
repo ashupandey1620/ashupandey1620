@@ -3,9 +3,6 @@
 ### 💫 About Me:
 👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 2nd year CSE student at PSIT<br>🎨 Exploring Backend Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
--  🔭 I’m currently working on Android Development  and practicing DataStructures and Algorithm.
--  👯 I’m looking to collaborate on Open Source Contributions.
--  💬 Ask me about Problem-solving and DSA.
 
 
 <h3 align='center'><i>Social Media Handles</i></h3>
