@@ -11,10 +11,7 @@
  
 <table width="125" align='center'>
 <tr>
-  
-    <td align='center' width="70">
-        <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
+ <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
 </tr>
 </table>
 
