@@ -1,10 +1,7 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 ### 💫 About Me:
-👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 3rd year CSE student at PSIT<br>🎨 Exploring Cross Platform Development<br>🌱 Currently learning Data Structures and Algorithms<br>
-
-
-
+👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 3rd year CSE student at PSIT<br>🎨 Exploring Cross Platform App Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -13,15 +10,8 @@
  <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
 </tr>
 </table>
-
 </p>
 
-
-
- 
-
-
- 
  <br>
  <h2 align="center">My Contribution Streak!! :fire:</h2>
 
@@ -35,9 +25,6 @@
    </a>
 </p>
 
-
-
-
 <div>
     <div align="center">
         <h1>📊 Github Stats</h1>
@@ -48,21 +35,12 @@
     </div>
 </div>
 
-
-
-
-
-
-
-
-
 <div align="center">
     <h2>📊 Top Used Languages</h2>
     <br><a href="https://github.com/ashupandey1620"><img alt="ashupandey1620's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="ashupandey1620's Top Languages"/></a><br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
 </div>
-
 
 <div align="center">
     <h2>📊 Contribution Graph</h2>
@@ -75,9 +53,6 @@
         <p>Loading...</p>
     </div>
 </div>
-
-
-
 
 <!---
 ashupandey1620/ashupandey1620 is a  ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
