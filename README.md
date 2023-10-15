@@ -1,14 +1,13 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 ### 💫 About Me:
-👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 3rd year CSE student at PSIT<br>🎨 Exploring Backend Development<br>🌱 Currently learning Data Structures and Algorithms<br>
+👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 3rd year CSE student at PSIT<br>🎨 Exploring Cross Platform Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 
 
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
- 
 <table width="125" align='center'>
 <tr>
  <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
