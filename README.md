@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-    <h2>📊 Top Used Languages</h2>
+    <h2>📊 Top Used Languages </h2>
     <br><a href="https://github.com/ashupandey1620"><img alt="ashupandey1620's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashupandey1620&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=040f0f&title_color=2f97c1&icon_color=F8D866" title="ashupandey1620's Top Languages"/></a><br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br><br>
