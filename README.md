@@ -1,6 +1,6 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-### 💫 About Me:
+### About Me:
 👨🏽‍💻 A passionate Android Developer.<br> 🎓I'm a 3rd year CSE student at PSIT<br>🎨 Exploring Cross Platform App Development<br>🌱 Currently learning Data Structures and Algorithms<br>
 
 <h3 align='center'><i>Social Media Handles</i></h3>
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-    <h2>📊 Contribution Graph</h2>
+    <h2>📊 Contribution Graph </h2>
     <br><a href="https://github.com/ashupandey1620"><img alt="Ashutosh Pandey's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=ashupandey1620&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" title="Contribution Graph"/></a>
 </div>
 <br><br>
