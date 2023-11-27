@@ -7,7 +7,7 @@
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<table width="125" align='center'>
+<table width="122" align='center'>
 <tr>
  <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
 </tr>
