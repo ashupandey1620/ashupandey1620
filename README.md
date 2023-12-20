@@ -60,6 +60,18 @@
 </div>
 
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+
+```rust
+From: 18 December 2023 - To: 19 December 2023
+
+Total Time: 31 mins
+
+Kotlin     10 mins         >>>>>>>>-----------------   33.99 %
+Markdown   4 mins          >>>>---------------------   15.22 %
+Git        0 secs          -------------------------   00.73 %
+Java       0 secs          -------------------------   00.58 %
+```
+
+<!--END_SECTION:waka-->
 
 
