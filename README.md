@@ -5,7 +5,7 @@
 
 [![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
-<h3 align='center'><i>Social Media Handles</i></h3>
+<h3 align='center'><i> Social Media Handles</i></h3>
 <p align='center'>
 <table width="122" align='center'>
 <tr>
