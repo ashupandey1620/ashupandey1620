@@ -62,20 +62,20 @@
  <!--START_SECTION:waka-->
 
 ```rust
-From: 18 December 2023 - To: 03 April 2024
+From: 18 December 2023 - To: 04 April 2024
 
-Total Time: 310 hrs 17 mins
+Total Time: 314 hrs 57 mins
 
-Kotlin                 207 hrs 17 mins >>>>>>>>>>>>>>>>>--------   66.71 %
-Java                   46 hrs 7 mins   >>>>---------------------   14.85 %
-JavaScript             26 hrs 1 min    >>-----------------------   08.37 %
-XML                    8 hrs 53 mins   >------------------------   02.86 %
-CSS                    3 hrs 19 mins   -------------------------   01.07 %
-HTML                   3 hrs 2 mins    -------------------------   00.98 %
-Dart                   2 hrs 57 mins   -------------------------   00.95 %
-Groovy                 2 hrs 52 mins   -------------------------   00.92 %
-JSON                   2 hrs 17 mins   -------------------------   00.74 %
-Markdown               1 hr 51 mins    -------------------------   00.60 %
+Kotlin                 211 hrs 44 mins >>>>>>>>>>>>>>>>>--------   67.13 %
+Java                   46 hrs 7 mins   >>>>---------------------   14.63 %
+JavaScript             26 hrs 1 min    >>-----------------------   08.25 %
+XML                    8 hrs 57 mins   >------------------------   02.84 %
+CSS                    3 hrs 19 mins   -------------------------   01.06 %
+HTML                   3 hrs 2 mins    -------------------------   00.96 %
+Dart                   2 hrs 57 mins   -------------------------   00.94 %
+Groovy                 2 hrs 52 mins   -------------------------   00.91 %
+JSON                   2 hrs 26 mins   -------------------------   00.77 %
+Markdown               1 hr 51 mins    -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
