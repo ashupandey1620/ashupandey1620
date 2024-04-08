@@ -27,6 +27,8 @@
    </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
     <div align="center">
         <h1>📊 Github Stats </h1>
