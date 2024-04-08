@@ -27,7 +27,7 @@
    </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div>
     <div align="center">
@@ -61,6 +61,7 @@
     </div>
 </div>
 
+
  <!--START_SECTION:waka-->
 
 ```rust
@@ -82,4 +83,6 @@ Markdown               1 hr 51 mins    -------------------------   00.58 %
 
 <!--END_SECTION:waka-->
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
