@@ -6,6 +6,8 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+    - cron: "1 0 * * *"
+    - cron: "2 0 * * *"
 
 jobs:
   update-readme:
