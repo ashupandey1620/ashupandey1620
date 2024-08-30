@@ -5,14 +5,6 @@
 
 [![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
-<h3 align='center'><i> Social Media Handles</i></h3>
-<p align='center'>
-<table width="122" align='center'>
-<tr>
- <a href="https://www.linkedin.com/in/ashupandey1620"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-</tr>
-</table>
-</p>
 
  <br>
  <h2 align="center">My Contribution Streak!! :fire:</h2>
