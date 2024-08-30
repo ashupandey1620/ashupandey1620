@@ -1,9 +1,9 @@
+[![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 👨🏽‍💻 Hello Everyone, I am a passionate Software Developer.<br> 🎓I'm a final year CSE student at PSIT<br>🎨 Mobile App Development (Native Android) <br>🌱 Backend Development (Javascript and Java) <br>
 
-[![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
 
  <br>
