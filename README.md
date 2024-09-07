@@ -57,20 +57,20 @@
  <!--START_SECTION:waka-->
 
 ```rust
-From: 18 December 2023 - To: 05 September 2024
+From: 18 December 2023 - To: 06 September 2024
 
-Total Time: 511 hrs 36 mins
+Total Time: 516 hrs 13 mins
 
-Kotlin                 320 hrs 14 mins >>>>>>>>>>>>>>>>---------   62.53 %
-Java                   57 hrs          >>>----------------------   11.13 %
-JavaScript             47 hrs 24 mins  >>-----------------------   09.26 %
-TypeScript             35 hrs 25 mins  >>-----------------------   06.92 %
-XML                    11 hrs 56 mins  >------------------------   02.33 %
-JSON                   10 hrs 7 mins   -------------------------   01.98 %
-HTML                   4 hrs 9 mins    -------------------------   00.81 %
-Bash                   3 hrs 34 mins   -------------------------   00.70 %
+Kotlin                 324 hrs 51 mins >>>>>>>>>>>>>>>>---------   62.87 %
+Java                   57 hrs          >>>----------------------   11.03 %
+JavaScript             47 hrs 24 mins  >>-----------------------   09.17 %
+TypeScript             35 hrs 25 mins  >>-----------------------   06.85 %
+XML                    11 hrs 56 mins  >------------------------   02.31 %
+JSON                   10 hrs 7 mins   -------------------------   01.96 %
+HTML                   4 hrs 9 mins    -------------------------   00.80 %
+Bash                   3 hrs 34 mins   -------------------------   00.69 %
 CSS                    3 hrs 23 mins   -------------------------   00.66 %
-GitIgnore file         3 hrs 6 mins    -------------------------   00.61 %
+GitIgnore file         3 hrs 6 mins    -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
