@@ -1,8 +1,28 @@
 [![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+&nbsp;
+&nbsp;
+<div>
+<a href="https://app.daily.dev/ashupandey1620"><img src="https://api.daily.dev/devcards/v2/ZBJ2aiVZz8TbxUL0qTX0N.png?r=g4u&type=default" width="356" alt="Tharun Balaji's Dev Card" align="right" /></a>
+</div>
 
-👨🏽‍💻 Hello Everyone, I am a passionate Software Developer.<br> 🎓I'm a final year CSE student at PSIT<br>🎨 Mobile App Development (Native Android) <br>🌱 Backend Development (Javascript and Java) <br>
+### About Me: 🙋‍♂️
+- 🎓 I’m currently Studying In **Pranveer Singh Institute Of Technology BTech Computer Science (AIML)**
+
+- 🌱 I’m currently learning **Data Structures & Algorithm**
+
+- 💭 Ask me anything about **App Development (Android) and Backend Development**
+
+- 📫 How to reach me **ashupandey1620@gmail.com**
+
+- 🎯 Checkout my portfolio <a href="" target="_blank">**here**</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 
 
@@ -76,5 +96,7 @@ GitIgnore file         3 hrs 7 mins    -------------------------   00.58 %
 <!--END_SECTION:waka-->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+
 
