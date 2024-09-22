@@ -1,3 +1,24 @@
+ <!--START_SECTION:waka-->
+
+```rust
+From: 18 December 2023 - To: 21 September 2024
+
+Total Time: 535 hrs 51 mins
+
+Kotlin                 342 hrs 25 mins >>>>>>>>>>>>>>>>---------   63.84 %
+Java                   57 hrs 12 mins  >>>----------------------   10.67 %
+JavaScript             47 hrs 55 mins  >>-----------------------   08.93 %
+TypeScript             35 hrs 26 mins  >>-----------------------   06.61 %
+XML                    12 hrs 21 mins  >------------------------   02.30 %
+JSON                   10 hrs 27 mins  -------------------------   01.95 %
+HTML                   4 hrs 9 mins    -------------------------   00.77 %
+Bash                   3 hrs 34 mins   -------------------------   00.67 %
+CSS                    3 hrs 23 mins   -------------------------   00.63 %
+GitIgnore file         3 hrs 7 mins    -------------------------   00.58 %
+```
+
+<!--END_SECTION:waka-->
+
 [![@ashupandey1620's Holopin board](https://holopin.me/ashupandey1620)](https://holopin.io/@ashupandey1620)
 
 &nbsp;
@@ -73,27 +94,6 @@
     </div>
 </div>
 
-
- <!--START_SECTION:waka-->
-
-```rust
-From: 18 December 2023 - To: 21 September 2024
-
-Total Time: 535 hrs 51 mins
-
-Kotlin                 342 hrs 25 mins >>>>>>>>>>>>>>>>---------   63.84 %
-Java                   57 hrs 12 mins  >>>----------------------   10.67 %
-JavaScript             47 hrs 55 mins  >>-----------------------   08.93 %
-TypeScript             35 hrs 26 mins  >>-----------------------   06.61 %
-XML                    12 hrs 21 mins  >------------------------   02.30 %
-JSON                   10 hrs 27 mins  -------------------------   01.95 %
-HTML                   4 hrs 9 mins    -------------------------   00.77 %
-Bash                   3 hrs 34 mins   -------------------------   00.67 %
-CSS                    3 hrs 23 mins   -------------------------   00.63 %
-GitIgnore file         3 hrs 7 mins    -------------------------   00.58 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
