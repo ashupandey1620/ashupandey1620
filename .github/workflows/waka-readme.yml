@@ -4,6 +4,9 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
+    - cron: "0 0 * * *"
+    - cron: "1 0 * * *"
+    - cron: "2 0 * * *"
     - cron: "30 23 * * *" # 5:00 AM IST
     - cron: "30 6 * * *"  # 12:00 PM IST
     - cron: "30 11 * * *" # 5:00 PM IST
