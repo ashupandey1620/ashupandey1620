@@ -22,9 +22,7 @@ HTML                   4 hrs 9 mins    -------------------------   00.66 %
 
 &nbsp;
 &nbsp;
-<div>
-<a href="https://app.daily.dev/ashupandey1620"><img src="https://api.daily.dev/devcards/v2/ZBJ2aiVZz8TbxUL0qTX0N.png?r=g4u&type=default" width="356" alt="Tharun Balaji's Dev Card" align="right" /></a>
-</div>
+
 
 ### About Me: 🙋‍♂️
 - 🎓 I’m currently Studying In **Pranveer Singh Institute Of Technology BTech Computer Science (AIML)**
