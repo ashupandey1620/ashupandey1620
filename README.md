@@ -33,7 +33,7 @@ HTML                   4 hrs 9 mins    -------------------------   00.66 %
 
 - 📫 How to reach me **ashupandey1620@gmail.com**
 
-- 🎯 Checkout my portfolio <a href="" target="_blank">**here**</a>
+- 🎯 Checkout my portfolio <a href="ashupandey1620.vercel.app" target="_blank">**here**</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashupandey1620&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
