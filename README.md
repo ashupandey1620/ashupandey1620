@@ -1,14 +1,14 @@
  <!--START_SECTION:waka-->
 
 ```rust
-From: 18 December 2023 - To: 04 December 2025
+From: 18 December 2023 - To: 05 December 2025
 
-Total Time: 651 hrs 46 mins
+Total Time: 651 hrs 49 mins
 
 Kotlin                 385 hrs 57 mins >>>>>>>>>>>>>>>----------   59.14 %
-Java                   61 hrs 22 mins  >>-----------------------   09.41 %
+Java                   61 hrs 22 mins  >>-----------------------   09.40 %
 JavaScript             56 hrs 44 mins  >>-----------------------   08.69 %
-TypeScript             42 hrs 49 mins  >>-----------------------   06.56 %
+TypeScript             42 hrs 51 mins  >>-----------------------   06.57 %
 Python                 29 hrs 47 mins  >------------------------   04.56 %
 XML                    13 hrs 57 mins  >------------------------   02.14 %
 PHP                    9 hrs 4 mins    -------------------------   01.39 %
