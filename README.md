@@ -27,7 +27,7 @@ Bash                   5 hrs 14 mins         -------------------------   00.77 %
 ### About Me: 🙋‍♂️
 - 🎓 Graduation : BTech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) **Pranveer Singh Institute Of Technology BTech Computer Science (AIML)**
 
-- 🌱 I’m currently learning **VLMs, LLMs and Reinforcement Learning**
+- 🌱 I’m currently working on **VLMs, LLMs, AI Research VLMs, AI Agents in Prod and Reinforcement Learning**
 
 - 💭 Ask me anything about **Artificial Intellegence, Machine Learning, LLMs, VLMs, RAG, MCPs, RL, AI Agents, AI in Production**
 
