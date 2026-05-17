@@ -25,13 +25,13 @@ Bash                   5 hrs 14 mins         -------------------------   00.77 %
 
 
 ### About Me: 🙋‍♂️
-- 🎓 I’m currently Studying In **Pranveer Singh Institute Of Technology BTech Computer Science (AIML)**
+- 🎓 Graduation : BTech in Computer Science and Engineering (Artificial Intelligence and Machine Learning) **Pranveer Singh Institute Of Technology BTech Computer Science (AIML)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithm**
+- 🌱 I’m currently learning **VLMs, LLMs and Reinforcement Learning**
 
-- 💭 Ask me anything about **App Development (Android) and Backend Development**
+- 💭 Ask me anything about **Artificial Intellegence, Machine Learning, LLMs, VLMs, RAG, MCPs, RL, AI Agents, AI in Production**
 
-- 📫 How to reach me **ashupandey1620@gmail.com**
+- 📫 How to reach me **ashupandey2026@gmail.com**
 
 - 🎯 Checkout my portfolio <a href="https://ashupandey1620.vercel.app" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>
 
